@@ -1,0 +1,5 @@
+export const DISPLAY_ALERT = "DISPLAY_ALERT";
+export const CLEAR_ALERT = "CLEAR_ALERT";
+
+export const LOGIN_USER_SUCCESS = "LOGIN_USER_SUCCESS";
+export const LOGIN_USER_ERROR = "LOGIN_USER_ERROR";
